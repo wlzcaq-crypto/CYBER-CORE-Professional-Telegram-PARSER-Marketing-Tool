@@ -1,0 +1,19 @@
+# Данные пользователя (САМОЕ ВАЖНОЕ)
+sessions/
+*.session
+*.session-journal
+config_v10.json
+profiles_v10.json
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+
+# Файлы данных (базы, которые ты спарсил)
+*.xlsx
+*.txt
+!requirements.txt
+!README.md
