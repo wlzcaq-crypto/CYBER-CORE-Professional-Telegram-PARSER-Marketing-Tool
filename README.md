@@ -47,7 +47,9 @@
 * [Скачать Python с официального сайта](https://www.python.org/downloads/)
 * **Важно:** При установке обязательно поставьте галочку **"Add Python to PATH"**.
 
-![Uploading 284003955-046ed050-5a00-4c94-8758-6de165e81ca3.png…]()
+<img width="818" height="504" alt="image" src="https://github.com/user-attachments/assets/2607cf58-d61b-4be5-8cdc-4f4d5fbb8cc2" />
+
+
 
 * **Интернет:** Стабильное соединение для работы с Telegram API.
 
@@ -94,9 +96,10 @@ python CYBER-CORE.py
 ## ⚙️ Первичная настройка
 
 1. Получите свои **API ID** и **API Hash** на сайте [my.telegram.org](https://my.telegram.org).
+<img width="1540" height="668" alt="api1" src="https://github.com/user-attachments/assets/692e81af-e06e-4e32-ae5a-b077aee93181" />
 
+<img width="1540" height="995" alt="api2" src="https://github.com/user-attachments/assets/ce9d2f11-0b24-4236-9863-c365fc4ab7be" />
 
-![Uploading 284003555-963ca90a-b9f7-4f94-bc95-a87742742239.png…]()
 
 2. Введите их в соответствующие поля в верхней панели программы.
 3. Введите номер телефона и нажмите **"ПОДКЛЮЧИТЬ"**.
